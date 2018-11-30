@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CaloriesAppWithRetrofit</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fruits">Fruits</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="calorie">Calorie:</string>
+    <string name="no_data_found">No data found</string>
+</resources>
